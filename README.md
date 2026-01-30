@@ -1,7 +1,8 @@
 
 conda env create -f environment.yml
-conda activate gas
+conda activate gas-mr
 
 python main.py
+
 
 
