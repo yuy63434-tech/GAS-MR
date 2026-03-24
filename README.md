@@ -9,7 +9,7 @@ conda env create -f environment.yml
 2. Activate the environment:
 
 ```bash
-conda activate gas-mr
+conda activate gasmr
 ```
 
 ---
